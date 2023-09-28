@@ -3,7 +3,7 @@
 #### About Me
 💻 I'm a [Back-End] Student.
 
-🎓 I'm currently studying  [[Software Development focused at Backend ](https://cubos.academy/cursos/desenvolvimento-de-software-v2) ] @ [[Cubos Academy](https://cubos.academy/)] | [[System Development and Analysis](http://www.systemsdev.com/)] @  [Senac University](https://www.sp.senac.br/jsp/webcas/default.jsp?newsID=a21634.htm&testeira=722&unit=CAS,CAJ,CAP&sub=)
+🎓 I'm currently studying  [[Software Development focused at Backend ](https://cubos.academy/cursos/desenvolvimento-de-software-v2) ] @ [[Cubos Academy](https://cubos.academy/)] | [[System Development and Analysis](http://www.systemsdev.com/)] @  [Senac University](https://www.sp.senac.br/jsp/webcas/default.jsp?newsID=a21634.htm&testeira=722&unit=CAS,CAJ,CAP&sub=)]
 
 👩‍💻 I'm  graduating  in [System Development and Analisys] @ [Senac University].
 
