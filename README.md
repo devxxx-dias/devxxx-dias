@@ -1,3 +1,6 @@
+
+# Read-me
+
 ### Hi, I'm Mauricio! 👋
 
 #### About Me
@@ -18,6 +21,9 @@
 #### I'm currently learning... 🧩
 
 - NodeJS
+
+
+#### I'm participating in DIO bootcamp Programming logic...  🤖
 
 
 #### I've worked with... 🔧
@@ -75,9 +81,12 @@ Udemy	![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&log
 <a href="https://www.linkedin.com/in/diasmauricio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://instagram.com/mauriciondias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
+<br>
+<br>
+
+### Meu primeiro desafio
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=devxxx-dias&repo=API-Biblioteca&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/devxxx-dias/API-Biblioteca)
 
 
 
 This template was created by <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨
-
-
