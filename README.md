@@ -21,6 +21,10 @@
 #### I'm currently learning... 🧩
 
 - NodeJS
+-  TypeScritp
+-  Nest.js
+-  Html
+-  CSS
 
 
 #### I'm participating in DIO bootcamp Programming logic...  🤖
