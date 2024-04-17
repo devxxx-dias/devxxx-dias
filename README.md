@@ -19,15 +19,15 @@
 
 
 #### I'm currently learning... 🧩
-
-- NodeJS
+-  Java
+-  NodeJS
 -  TypeScritp
 -  Nest.js
 -  Html
 -  CSS
 
 
-#### I'm participating in DIO bootcamp Programming logic...  🤖
+#### I'm participating in Oracle Java Programming Backend...  🤖
 
 
 #### I've worked with... 🔧
@@ -56,6 +56,10 @@
 ### I'm learning... 🧩
 
 
+<img height=28 width= 126 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img height=35 width= 126 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -67,6 +71,10 @@
 #### Courses Completed 🤓
 
 
+<img  height=28 width= 126 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+          
+
+<i class="devicon-javascript-plain colored"></i>
 
 Udemy	![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
