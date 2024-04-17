@@ -56,7 +56,7 @@
 ### I'm learning... 🧩
 
 
-<img height=28 width= 126 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
 
 <img height=35 width= 126 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
 
@@ -70,8 +70,10 @@
 
 #### Courses Completed 🤓
 
+<img height=28 width= 126 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img  height=28 width= 126 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+
           
 
 <i class="devicon-javascript-plain colored"></i>
